@@ -12,6 +12,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 150px;
   }
   nav >ul{
     display: flex;
@@ -33,6 +34,8 @@ body{
     font-size: 20px;
     font-weight: 700;
     padding: 16px 35px;
+    margin-top: 10px;
+    
 
   }
   .text{
@@ -44,3 +47,15 @@ body{
     font-size: 20px;
     font-weight: 600;
   }
+   .header{
+    background: #FFF8F3;
+   }
+
+   .banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+   }
+.fortfoli-pic{
+    width: 500px;
+}
